@@ -5,6 +5,7 @@ Attention-based deep learning model for single image dehazing
 ![Comparison](results/comparison_results.png)
 
 ## Quantitative Results
+
 | Image | PSNR (dB) | SSIM | MSE | MAE |
 |------|----------|------|------|------|
 | 1 | 24.25 | 0.9672 | 0.0038 | 0.0569 |
