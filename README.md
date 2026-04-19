@@ -13,3 +13,5 @@ Attention-based deep learning model for single image dehazing
 | 3 | 28.14 | 0.9783 | 0.0015 | 0.0327 |
 | 4 | 27.46 | 0.9788 | 0.0018 | 0.0343 |
 | 5 | 26.99 | 0.9648 | 0.0020 | 0.0389 |
+
+The model performs well on synthetic data (PSNR up to 28 dB, SSIM ~0.97–0.98) but shows reduced performance in more complex haze conditions.
